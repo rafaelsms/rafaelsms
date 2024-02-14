@@ -1,9 +1,7 @@
 ### Hello 👋
 
-I am Rafael, a brazilian 🇧🇷 computer science student.
+I am Rafael. My projects here are mostly related to Minecraft server modifications and some private repositories with various scripts and data analisys.
 
-My projects here are mostly related to Minecraft modifications to attend my server needs and some private personal related repositories. Nothing intresting really.
+I think it is safe to say that I know Python, C, Java and JavaScript. I enjoy photography, cooking, watching series and I love my three cats. 🐱🐈
 
-I think it is safe to say that I know Python, C, Java and JavaScript. I enjoy cooking, watching series and I love my two cats. 🐱🐈
-
-[Here is my website with more info](https://rafaelsms.com).
+[Here is my website](https://rafaelsms.com/).
